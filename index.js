@@ -22,3 +22,4 @@ const randomNumber = Math.random(0, 20)
 const randomInteger = Math.floor(randomNumber)
 
 const randomUserID = 1000000001 + randomNumber
+console.log(randomUserID)
