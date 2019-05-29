@@ -14,3 +14,5 @@ if (Number.isInteger(currentAge)) {
 } else {
   ageIsValid = false
 }
+
+const randomNumber = Number.random(0,20)
