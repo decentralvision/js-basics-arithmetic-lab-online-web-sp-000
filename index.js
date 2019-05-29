@@ -9,7 +9,7 @@ You should NOT try to redefine any of the above variables.
 // Write your code below this line!
 const newID = oldID + 1000000000
 
-def function ageIsValid() {
+function ageIsValid() {
   if (currentAge.isInteger()) {
     return true
   } else {
