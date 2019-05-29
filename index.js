@@ -15,4 +15,4 @@ if (Number.isInteger(currentAge)) {
   ageIsValid = false
 }
 
-const randomNumber = Number.random(0,20)
+const randomNumber = Math.random(0, 20)
